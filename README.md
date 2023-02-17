@@ -3,8 +3,8 @@ These are 2 programs programmed in python that can be used to encrypt and decryp
 
 Installation:
 1. Install python
-2. Run this in the command line: pip install cryptography
-And you are all set!
+2. Run this in the command line: "pip install cryptography"
+You are all set!
 
 How to use:
 1. Open encrypt.py
